@@ -1,6 +1,8 @@
 # JustAboutTime
 A maybe-too-simple Rainmeter skin pack.
 
+![skin screenshot](http://i.imgur.com/tLGsXEM.png)
+
 ## Todo
 * descriptions of the different skins
 
